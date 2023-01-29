@@ -1,0 +1,15 @@
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\ComprehensiveExam.csproj.AssemblyReference.cache
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\ComprehensiveExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\ComprehensiveExam.AssemblyInfoInputs.cache
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\ComprehensiveExam.AssemblyInfo.cs
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\ComprehensiveExam.csproj.CoreCompileInputs.cache
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\bin\Debug\net7.0\ComprehensiveExam.exe
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\bin\Debug\net7.0\ComprehensiveExam.deps.json
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\bin\Debug\net7.0\ComprehensiveExam.runtimeconfig.json
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\bin\Debug\net7.0\ComprehensiveExam.dll
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\bin\Debug\net7.0\ComprehensiveExam.pdb
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\ComprehensiveExam.dll
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\refint\ComprehensiveExam.dll
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\ComprehensiveExam.pdb
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\ComprehensiveExam.genruntimeconfig.cache
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\ComprehensiveExam\obj\Debug\net7.0\ref\ComprehensiveExam.dll
